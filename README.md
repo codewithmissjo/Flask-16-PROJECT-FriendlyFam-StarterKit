@@ -1,3 +1,5 @@
+### Phases
+
 Phase 1: Setup and Starter Code
 
 Phase 2: Home Route and Database Connection
@@ -10,7 +12,7 @@ Phase 5: Event Features (Edit and Cancel)
 
 Phase 6: Hosting and Deploying the Application
 
-Concepts and Requirements:
+### Concepts and Requirements:
 
 ● User Authentication (login and signup functionalities)
 
@@ -20,5 +22,6 @@ Concepts and Requirements:
 
 ● Deploying a database-backed web application
 
-Description:
+### Description:
+
 The starter version is to be improved by adding the server side functionalities (routes to different pages, handling form submissions and authenticating form data, handle logins and registrations, setting sessions, handling logouts, interacting with the database to store new users and new event posts, and keeping the home page events updated (those still on and the ones that have been canceled)
