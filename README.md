@@ -24,4 +24,4 @@ Phase 6: Hosting and Deploying the Application
 
 ### Description:
 
-The starter version is to be improved by adding the server side functionalities (routes to different pages, handling form submissions and authenticating form data, handle logins and registrations, setting sessions, handling logouts, interacting with the database to store new users and new event posts, and keeping the home page events updated (those still on and the ones that have been canceled)
+The starter version is to be improved by adding the server side functionalities, such as: routes to different pages, handling form submissions and authenticating form data, handle logins and registrations, setting sessions, handling logouts, interacting with the database to store new users and new event posts, and keeping the home page events updated (those still on and the ones that have been canceled)
